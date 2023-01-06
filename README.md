@@ -12,13 +12,13 @@
 
 ## Description
 
-_This is a webpage that is used to display a portfolio of John Lenz, It uses HTML and CSS to make and stylize the website. It inclues a list of projects that he is currently working on along with contact information_
+_This is a webpage that is used to display a portfolio of John Lenz, It uses HTML and CSS to make and stylize the website. It shows basic concepts of HTML and styling with CSS. It inclues a list of projects that he is currently working on along with contact information_
 
 ## GitHub Link
 _https://jlenz27.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
-
+* _Download Repository
 * _Run this program with an Web browser of your choosing_
 
 
