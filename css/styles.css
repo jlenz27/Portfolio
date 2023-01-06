@@ -1,0 +1,60 @@
+
+
+.background{
+  background-color: darkgray;
+}
+
+.name{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  height:15px;
+  background-color: darkgrey;
+  
+}
+.email{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  height: 25px;
+  background-color: darkgray;
+}
+
+.assignments{
+  font-size: 15px;
+  font: sans-serif;  
+  float:left
+
+}
+
+.important{
+font-weight: 20px;
+font-size: 18px;
+color:crimson;
+
+
+}
+
+.img{
+float: right;
+margin: 5px;
+height: 42%;
+width: 42%;
+
+}
+
+
+.aboutMe{
+  color:rgb(37, 36, 36);
+  font-size: 18px;
+ 
+}
+
+.button {
+  position: absolute;
+  top:50%;
+  background-color:#0a0a23;
+  color: #fff;
+}
