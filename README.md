@@ -2,7 +2,7 @@
 
 #### By _**John Lenz**_
 
-#### _A portfolio that descibes some of John's hobbies along with a list of current projects that he is working on_
+#### _A portfolio that talks about John and some of his hobbies along with a list of current projects that he is working on_
 
 ## Technologies Used
 
@@ -12,10 +12,10 @@
 
 ## Description
 
-_{This is a webpage that is used to display a portfolio of John Lenz, It uses HTML and CSS to make and stylize the website. It inclues a list of projects that he is currently working on along with contact information}_
+_This is a webpage that is used to display a portfolio of John Lenz, It uses HTML and CSS to make and stylize the website. It inclues a list of projects that he is currently working on along with contact information_
 
 ## GitHub Link
-*_https://jlenz27.github.io/Portfolio/_
+_https://jlenz27.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
 
@@ -29,6 +29,7 @@ _{This is a webpage that is used to display a portfolio of John Lenz, It uses HT
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-Copyright (c) 1/06/2023 John Lenz(s)_
+_If you have any issues running this program or wish to contact me please email me at John.lenz29@gmail.com_
+
+Copyright (c) 1/06/2023 John Lenz(s)
