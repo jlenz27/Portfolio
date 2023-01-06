@@ -15,7 +15,7 @@
 _{This is a webpage that is used to display a portfolio of John Lenz, It uses HTML and CSS to make and stylize the website. It inclues a list of projects that he is currently working on along with contact information}_
 
 ## GitHub Link
-*_https://github.com/jlenz27/Portfolio.git_
+*_https://jlenz27.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
 
